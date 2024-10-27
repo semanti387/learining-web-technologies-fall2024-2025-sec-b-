@@ -1,0 +1,94 @@
+<products>
+    <product sr="1">
+        <id>11</id>
+        <name> samsung</name>
+        <unit_price>35000</unit_price>
+        <stock>50</stock>
+        <status>1</status>
+            <h>12</h>
+            <r>01</r>
+        <product sr="2">
+        <id>20</id>
+        <name> htc</name>
+        <unit_price>65300</unit_price>
+        <stock>35</stock>
+        <status>0</status>
+            <h>12</h>
+            <r>02</r>
+        <product sr="3">
+        <id>23</id>
+        <name> nokia</name>
+        <unit_price>25100</unit_price>
+        <stock>100</stock>
+        <status>1</status>
+            <h>12</h>
+            <r>03</r>
+ </products>      
+
+
+
+
+
+
+
+
+ <students>
+    <student sr="1">
+        <sl_no>23</sl_no>
+        <first_name>john</first_name>
+        <last_name>carter</last_name>
+        <admission_date>25/12/2015</admission_date>
+            <h>12</h>
+            <r>01</r>
+        <student sr="2">
+        <sl_no>29</sl_no>
+        <first_name>bob</last_name>
+        <last_name>marshal</last_name>
+        <admission_date>13/01/1999</admission_date>
+            <h>12</h>
+            <r>02</r>
+        <product sr="3">
+        <sl_no>35</sl_no>
+        <first_name>clark</first_name>
+        <last_name>kent</last_name>
+        <admission_date>17/06/2005</admission_date>
+            <h>12</h>
+            <r>03</r>
+ </students>   
+
+
+
+
+
+
+
+
+
+
+
+
+<employees>
+    <employee sr="1">
+        <first_name>john</first_name>
+        <last_name>doe</last_name>
+        <depertment>sales</depertment>
+        <salary>20000</salary>
+        <add>
+           
+            <h>12</h>
+            <r>01</r>
+        <student sr="2">
+        <sl_no>29</sl_no>
+        <first_name>bob</last_name>
+        <last_name>marshal</last_name>
+        <admission_date>13/01/1999</admission_date>
+            <h>12</h>
+            <r>02</r>
+        <product sr="3">
+        <sl_no>35</sl_no>
+        <first_name>clark</first_name>
+        <last_name>kent</last_name>
+        <admission_date>17/06/2005</admission_date>
+            <h>12</h>
+            <r>03</r>
+ </students>          
